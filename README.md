@@ -17,7 +17,7 @@
 
 ## Dashboard Preview
 
-!(dashboard_preview.jpg)
+![Dashboard Preview](dashboard_preview.jpg)
 
 > *Filter by City · Room Class · Property · Month · Week*
 
@@ -79,14 +79,6 @@ Booking % by Platform = DIVIDE(
     [Total Bookings],
     CALCULATE([Total Bookings], ALL(fact_bookings[booking_platform]))
 ) * 100
-
--- Week-over-Week change (uses VAR + HASONEFILTER)
-Occupancy WoW change % =
-    Var selv  = IF(HASONEFILTER(dim_date[wn]), SELECTEDVALUE(dim_date[wn]), MAX(dim_date[wn]))
-    Var revcw = CALCULATE([Occupancy %], dim_date[wn] = selv)
-    Var revpw = CALCULATE([Occupancy %], FILTER(ALL(dim_date), dim_date[wn] = selv - 1))
-    return DIVIDE(revcw, revpw, 0) - 1
-```
 
 ---
 
