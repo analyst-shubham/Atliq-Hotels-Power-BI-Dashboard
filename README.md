@@ -79,7 +79,9 @@ Booking % by Platform = DIVIDE(
     [Total Bookings],
     CALCULATE([Total Bookings], ALL(fact_bookings[booking_platform]))
 ) * 100
+```
 
+---
 ## Business Recommendations
 
 Based on dashboard findings, three priority actions for management:
