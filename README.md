@@ -1,4 +1,4 @@
-# Atliq Hotels — Revenue & Performance Dashboard
+# Hospitality Revenue & Performance Analysis
 
 > **Power BI dashboard analysing hotel booking performance, revenue trends, and guest satisfaction across 7 properties.**
 
