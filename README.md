@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Situation** | Atliq Grand, a multi-property five-star hotel chain, noticed a decline in market share and needed data-driven visibility into performance. |
+| **Situation** | A multi-property five-star hotel chain, noticed a decline in market share and needed data-driven visibility into performance. |
 | **Task** | Build an end-to-end interactive dashboard to help management make informed decisions on revenue, occupancy, and guest experience. |
 | **Action** | Analysed 3 months of booking data in Power BI — built a star schema data model, created 20+ DAX measures, and designed an interactive dashboard with slicers, tooltips, and conditional formatting. |
 | **Result** | Dashboard surfaces key insights: 58% occupancy leaving ₹5,360/room/night revenue on the table, 30% booking loss rate, and critically low guest ratings — giving management clear levers to act on. |
@@ -16,7 +16,6 @@
 ---
 
 ## Dashboard Preview
-
 ![Dashboard Preview](dashboard_preview.jpg)
 
 > *Filter by City · Room Class · Property · Month · Week*
