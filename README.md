@@ -16,7 +16,7 @@
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.jpg)
+![Dashboard Preview](preview.jpg)
 
 > *Filter by City · Room Class · Property · Month · Week*
 
