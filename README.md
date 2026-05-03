@@ -4,7 +4,7 @@
 
 ---
 
-## Project Background (STAR Method)
+## Project Background
 
 | | |
 |---|---|
@@ -97,22 +97,23 @@ Based on dashboard findings, three priority actions for management:
 |---|---|
 | `Data` | Raw Data |
 | `Hospitality Revenue & Performance Dashboard.pbix` | Power BI project file |
-| `preview.png` | Screenshot of final dashboard |
+| `preview.jpg` | Screenshot of final dashboard |
 | `README.md` | This file |
 
 ---
 
 ## How to Open
 
-1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
+1. Download and install Power BI Desktop
 2. Clone or download this repository
-3. Open `Atliq_Hotels_Dashboard.pbix` in Power BI Desktop
-4. Use the slicers at the top to explore by city, room class, property, month, and week
+3. Open `Hospitality Revenue & Performance Dashboard.pbix` in Power BI Desktop
 
 ---
 
 By Shubham Bhakta
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhambhakta/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shubham.kr1204@gmail.com)
 
-*Open to feedback, suggestions, and data analyst opportunities!*
 
 ---
